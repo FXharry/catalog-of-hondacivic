@@ -1,6 +1,5 @@
 # Catalog-of-Hondacivic 💻
 To view the project live: [Click Here.](https://fxharry.github.io/catalog-of-hondacivic/)
-![Project Preview ](https://fxharry.github.io/catalog-of-hondacivic/)
 
 Hi 😁! This project was produced during a study.
 ### Learnings 🚀
